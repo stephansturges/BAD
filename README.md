@@ -8,6 +8,7 @@ It's free to use so knock yourself out! Just make sure to follow the Ultralytics
 
 It's not bad... it's a nano model so it's super fast for your edge devices. I have larger models trained on this dataset but they are not open-source. 
 The dataset is mostly eye-level data with some overhead / drone data in there too, for this nano model. This is not meant to be a 100%-drone AI model.
+![output_video](https://github.com/stephansturges/BAD/assets/20320678/9c6a24ba-c9ef-4c0c-b2c1-8dc0b3b3e2c3)
 
 
 ## License (MIT)
