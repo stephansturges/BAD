@@ -1,6 +1,6 @@
 ## What is this?
 
-BAD is a short-range / low-rez / low-altitude trained YOLOv8-nano-segmentation model that only detects people and runs at 640px x 480 px. It's a super basic training run for now.
+BAD is a short-range / low-rez / low-altitude trained YOLOv8-nano-segmentation model that only detects people and runs at 640px x 640 px. It's a super basic training run for now.
 
 It's free to use so knock yourself out! Just make sure to follow the Ultralytics terms of service around commercial use (https://github.com/ultralytics/ultralytics) since this uses their code for training.
 
